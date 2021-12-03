@@ -1,0 +1,158 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+artifacts/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+
+# Rope project settings
+.ropeproject
+package/dev-raven-lambda-kinesis-client-counter-cf-pageview.zip
+package/dev-raven-lambda-kinesis-client-counter-cf-pageview-output.yaml
+package/dev-raven-lambda-kinesis-client-counter-cf-share.zip
+package/dev-raven-lambda-kinesis-client-counter-cf-share-output.yaml
+package/dev-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/dev-raven-lambda-kinesis-server-counter-cf-pageview-output.yaml
+package/dev-raven-lambda-kinesis-server-counter-cf-share.zip
+package/dev-raven-lambda-kinesis-server-counter-cf-share-output.yaml
+package/stg-raven-lambda-kinesis-client-counter-cf-pageview.zip
+package/stg-raven-lambda-kinesis-client-counter-cf-pageview-output.yaml
+package/stg-raven-lambda-kinesis-client-counter-cf-share.zip
+package/stg-raven-lambda-kinesis-client-counter-cf-share-output.yaml
+package/stg-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/stg-raven-lambda-kinesis-server-counter-cf-pageview-output.yaml
+package/stg-raven-lambda-kinesis-server-counter-cf-share.zip
+package/stg-raven-lambda-kinesis-server-counter-cf-share-output.yaml
+package/dev-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/stg-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/dev-magpie-backend-kinesis-client-counter-cf-pageview.zip
+package/dev-magpie-backend-kinesis-client-counter-cf-pageview-output.yaml
+package/dev-magpie-backend-kinesis-client-counter-cf-share.zip
+package/dev-magpie-backend-kinesis-client-counter-cf-share-output.yaml
+package/dev-magpie-backend-kinesis-server-counter-cf-pageview.zip
+package/dev-magpie-backend-kinesis-server-counter-cf-pageview-output.yaml
+package/dev-magpie-backend-kinesis-server-counter-cf-share.zip
+package/dev-magpie-backend-kinesis-server-counter-cf-share-output.yaml
+package/dev-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/stg-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/dev-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/stg-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/dev-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/prd-magpie-backend-kinesis-client-counter-cf-pageview.zip
+package/prd-magpie-backend-kinesis-client-counter-cf-pageview-output.yaml
+package/prd-magpie-backend-kinesis-client-counter-cf-share.zip
+package/prd-magpie-backend-kinesis-client-counter-cf-share-output.yaml
+package/prd-magpie-backend-kinesis-server-counter-cf-pageview.zip
+package/prd-magpie-backend-kinesis-server-counter-cf-pageview-output.yaml
+package/stg-magpie-backend-kinesis-client-counter-cf-pageview.zip
+package/stg-magpie-backend-kinesis-client-counter-cf-pageview-output.yaml
+package/stg-magpie-backend-kinesis-client-counter-cf-share.zip
+package/stg-magpie-backend-kinesis-client-counter-cf-share-output.yaml
+package/stg-magpie-backend-kinesis-server-counter-cf-pageview.zip
+package/stg-magpie-backend-kinesis-server-counter-cf-pageview-output.yaml
+package/stg-magpie-backend-kinesis-server-counter-cf-share.zip
+package/stg-magpie-backend-kinesis-server-counter-cf-share-output.yaml
+package/stg-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/dev-magpie-backend-dynamo-streams-replicator.zip
+package/dev-magpie-backend-dynamo-streams-replicator-output.yaml
+package/dev-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/prd-magpie-backend-dynamo-streams-replicator.zip
+package/prd-magpie-backend-dynamo-streams-replicator-output.yaml
+package/prd-magpie-backend-kinesis-server-counter-cf-share.zip
+package/prd-magpie-backend-kinesis-server-counter-cf-share-output.yaml
+package/stg-magpie-backend-dynamo-streams-replicator.zip
+package/stg-magpie-backend-dynamo-streams-replicator-output.yaml
+package/stg-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/dev-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/stg-raven-lambda-kinesis-server-counter-cf-pageview.zip
+package/dev-350063874673.zip
+package/dev-dev-magpie-backend-kinesis-client-frp-pageview.zip
+package/dev-kinesis_client_to_dynamo_counter_crowdfunding_pageview.py.zip
+package/dev-magpie-backend-kinesis-client-counter-frp-pageview.zip
+package/dev-magpie-backend-kinesis-client-counter-frp-share.zip
+package/magpie-backend-kinesis-client-counter-cf-pageview-dev.zip
+package/prd-magpie-backend-kinesis-client-counter-frp-pageview.zip
+package/prd-magpie-backend-kinesis-client-counter-frp-share.zip
+package/stg-magpie-backend-kinesis-client-counter-frp-pageview.zip
+package/stg-magpie-backend-kinesis-client-counter-frp-share.zip
